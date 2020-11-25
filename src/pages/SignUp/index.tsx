@@ -93,7 +93,7 @@ const SignUp: React.FC = () => {
         >
           <Container>
             <View>
-              <AppLogo>Beautify</AppLogo>
+              <AppLogo>GoBarber</AppLogo>
             </View>
 
             <View>
